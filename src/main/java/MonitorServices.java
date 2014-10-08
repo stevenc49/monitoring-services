@@ -6,9 +6,8 @@ import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.InetSocketAddress;
 import java.net.URL;
-import java.util.ArrayList;
-import java.util.List;
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import com.sun.net.httpserver.HttpExchange;
@@ -31,11 +30,20 @@ import com.sun.net.httpserver.HttpServer;
 public class MonitorServices {
 
     public static void main(String[] args) throws Exception {
-        HttpServer server = HttpServer.create(new InetSocketAddress(8888), 0);
+    	
+    	if(args.length==0) {
+    		System.out.println("Usage: java -jar MonitorServices <port>");
+    	}
+    	
+    	int port = Integer.valueOf(args[0]);
+    	
+        HttpServer server = HttpServer.create(new InetSocketAddress(port), 0);
         server.createContext("/monitorServices", new homePage());
         server.createContext("/monitorServices/pingUrl", new pingUrl());
         server.createContext("/monitorServices/checkWorkflow", new checkWorkflow());
         server.createContext("/monitorServices/checkWindowsService", new checkWindowsService());
+        
+        System.out.println("Starting Monitor Services on port: " + port);
         server.start();
     }
 
@@ -103,10 +111,21 @@ public class MonitorServices {
         public void handle(HttpExchange t) throws IOException {
         	
         	String myResponse = "";
+        	
+        	//parse out URL
         	String url = t.getRequestURI().toString();
         	int indexOfBeginningOfUrl = url.indexOf("url=");
         	url = url.substring(indexOfBeginningOfUrl + 4);
         	
+        	//convert to format=json
+        	if(url.endsWith("run")) {
+        		url = url + "?f=pjson";
+        	}
+        	else if(url.endsWith("run#")) {
+        		url = url.substring(0, url.length()-2) + "?f=pjson";
+        	}
+        	
+        	//check workflow
         	System.out.println("\nChecking workflow at URL : " + url);
         	
     		try {
@@ -114,19 +133,41 @@ public class MonitorServices {
     			//check http 200
     			if(checkHttp200(url).equals("OK")) {
     				
-    				//if 200, then see if json response has error
         			String urlResponse = httpGet(url);
-    				
     				JSONObject jsonResponse = new JSONObject(urlResponse.toString());
+    				
+    				//internal server error: 500
     				if(jsonResponse.has("error")) {
     					myResponse = "NOK";
-    				} else {
-    					myResponse = "OK";
     				}
-    			} else {
-    				myResponse = "NOK";
+
+    				if(jsonResponse.has("outputs")) {
+    					JSONArray outputs = jsonResponse.getJSONArray("outputs");
+    					
+    					for(int i=0; i<outputs.length(); i++) {
+    						JSONObject output = (JSONObject) outputs.get(i);
+    						
+    						//check wfError
+    						if(output.get("name").equals("wfError") && output.get("value").equals(true)) {
+    							myResponse = "wfError: true";
+    						}
+    						
+    						//check wfErrorMsg
+//    						if(output.get("name").equals("wfErrorMsg")) {
+//    							
+//    							if(!myResponse.isEmpty()) {
+//    								myResponse += "\n";
+//    							}
+//    							myResponse += "wfErrorMsg: '" + output.get("value") + "'";
+//    						}
+    					}
+    				}
     			}
     			
+    			//everything is ok
+    			if(myResponse.isEmpty()) {
+    				myResponse = "OK";
+    			}
 
 			} catch (Exception e) {
 				myResponse = e.getStackTrace().toString();

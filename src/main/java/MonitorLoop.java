@@ -1,28 +1,55 @@
 import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.log4j.Logger;
+import org.joda.time.DateTime;
+import org.joda.time.Interval;
+import org.joda.time.Period;
+import org.joda.time.format.PeriodFormat;
 
 public class MonitorLoop {
 
 	public static void main(String[] args) throws Exception {
 
+		Logger log = Logger.getLogger(MonitorLoop.class);
+		SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy h:mm:ss a");
+		
         List<String> workflowUrls = new ArrayList<String>();
-        workflowUrls.add("http://localhost:3000/workflows/good.json");
-        workflowUrls.add("http://localhost:3000/workflows/wferror.json");
-        workflowUrls.add("http://localhost:3000/workflows/error.json");
         
+        //epermit endpoints
+        BufferedReader br = new BufferedReader(new FileReader("endpoints.txt"));
+        String line;
+        while ((line = br.readLine()) != null) {
+        	workflowUrls.add(line);
+        }
+        br.close();
+
+        //start loop
         while(true) {
         	
+        	log.info("================================================================================");
+        	
         	for(String workflowUrl: workflowUrls) {
-        		System.out.println("Checking workflow at URL : " + workflowUrl);
-        		System.out.println(httpGet("http://localhost:8888/monitorServices/checkWorkflow?url="+workflowUrl));
-        		System.out.println();
+        		
+        		DateTime start = new DateTime();
+        		log.info("Checking workflow at URL : " + workflowUrl);
+        		log.info("Response: " + httpGet("http://localhost:8888/monitorServices/checkWorkflow?url="+workflowUrl));
+        		
+        		DateTime end = new DateTime();
+        		Interval interval = new Interval(start, end);
+        		Period period = interval.toPeriod();
+        		log.info("Duration: " + PeriodFormat.getDefault().print(period));
+        		
+        		log.info("");
         	}
         	
+        	log.info("================================================================================");
         	
         	Thread.sleep(5000);
         }

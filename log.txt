@@ -1,0 +1,1405 @@
+2014-10-08 15:03:06,298 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:03:06,299 INFO  MonitorLoop  - 10/08/2014 3:03:06 PM
+ 2014-10-08 15:03:06,300 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:03:09,364 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:09,365 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:09,365 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/overviewOgcZoneWf/run
+ 2014-10-08 15:03:36,838 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:36,839 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:36,839 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:03:37,223 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:37,224 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:37,224 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:03:38,184 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:38,185 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:38,185 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:03:38,919 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:38,919 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:38,919 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:03:39,815 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:39,815 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:39,815 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:03:40,134 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:40,134 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:40,134 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:03:40,314 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:40,315 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:40,315 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:03:41,141 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:41,141 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:41,141 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:03:41,519 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:41,519 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:41,519 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:03:42,347 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:42,347 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:42,347 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:03:42,616 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:42,616 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:42,616 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:03:43,198 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:43,198 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:43,198 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:03:43,524 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:43,524 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:43,525 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:03:44,198 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:44,198 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:44,198 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:03:48,258 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:48,258 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:48,258 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:03:48,597 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:48,598 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:48,598 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:03:49,303 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:49,303 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:49,304 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:03:49,621 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:49,621 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:49,621 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:03:50,197 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:50,197 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:50,197 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:03:50,558 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:50,558 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:50,558 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:03:50,800 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:03:50,800 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:50,800 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:03:50,934 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:03:50,934 INFO  MonitorLoop  - 
+ 2014-10-08 15:03:50,934 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:04:26,606 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:04:26,606 INFO  MonitorLoop  - 
+ 2014-10-08 15:04:26,606 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/withinTimberHarvestingLandBaseWf/run
+ 2014-10-08 15:04:26,856 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:04:26,857 INFO  MonitorLoop  - 
+ 2014-10-08 15:04:26,857 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoCrownLengthAndTotalAreaWf/run
+ 2014-10-08 15:04:28,895 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:04:28,896 INFO  MonitorLoop  - 
+ 2014-10-08 15:04:28,896 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoPrivateLengthAndTotalAreaWf/run
+ 2014-10-08 15:04:29,130 INFO  MonitorLoop  - Response: wfError: true
+ 2014-10-08 15:04:29,130 INFO  MonitorLoop  - 
+ 2014-10-08 15:04:29,130 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingAlrWf/run
+ 2014-10-08 15:04:30,238 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:04:30,238 INFO  MonitorLoop  - 
+ 2014-10-08 15:04:30,238 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/outsidePrrdNrrdIndicatorWf/run
+ 2014-10-08 15:04:43,277 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:04:43,278 INFO  MonitorLoop  - 
+ 2014-10-08 15:04:43,278 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/localGovernmentJurisdictionWf/run
+ 2014-10-08 15:05:10,524 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:05:10,524 INFO  MonitorLoop  - 
+ 2014-10-08 15:05:10,524 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingParkWf/run
+ 2014-10-08 15:07:31,728 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:07:31,903 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:07:40,980 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:07:41,042 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:07:46,167 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:07:58,742 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:07:58,801 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:08:11,080 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:08:11,139 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:08:13,006 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:13,029 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:11.114-07:00/2014-10-08T15:08:13.006-07:00
+ 2014-10-08 15:08:13,029 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/overviewOgcZoneWf/run
+ 2014-10-08 15:08:38,760 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:38,761 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:13.029-07:00/2014-10-08T15:08:38.761-07:00
+ 2014-10-08 15:08:38,762 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:08:38,996 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:38,996 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:38.762-07:00/2014-10-08T15:08:38.996-07:00
+ 2014-10-08 15:08:38,996 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:08:39,837 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:39,837 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:38.996-07:00/2014-10-08T15:08:39.837-07:00
+ 2014-10-08 15:08:39,837 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:08:40,941 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:40,943 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:39.837-07:00/2014-10-08T15:08:40.942-07:00
+ 2014-10-08 15:08:40,943 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:08:42,265 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:42,265 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:40.943-07:00/2014-10-08T15:08:42.265-07:00
+ 2014-10-08 15:08:42,265 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:08:42,648 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:42,649 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:42.265-07:00/2014-10-08T15:08:42.649-07:00
+ 2014-10-08 15:08:42,649 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:08:43,020 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:43,021 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:42.649-07:00/2014-10-08T15:08:43.020-07:00
+ 2014-10-08 15:08:43,021 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:08:43,269 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:43,270 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:43.021-07:00/2014-10-08T15:08:43.269-07:00
+ 2014-10-08 15:08:43,270 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:08:43,990 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:43,990 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:43.270-07:00/2014-10-08T15:08:43.990-07:00
+ 2014-10-08 15:08:43,990 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:08:44,846 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:44,847 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:43.990-07:00/2014-10-08T15:08:44.847-07:00
+ 2014-10-08 15:08:44,848 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:08:45,284 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:45,284 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:44.848-07:00/2014-10-08T15:08:45.284-07:00
+ 2014-10-08 15:08:45,284 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:08:45,676 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:45,676 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:45.284-07:00/2014-10-08T15:08:45.676-07:00
+ 2014-10-08 15:08:45,676 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:08:46,042 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:46,043 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:45.676-07:00/2014-10-08T15:08:46.043-07:00
+ 2014-10-08 15:08:46,043 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:08:46,640 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:46,641 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:46.043-07:00/2014-10-08T15:08:46.641-07:00
+ 2014-10-08 15:08:46,641 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:08:50,358 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:50,358 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:46.641-07:00/2014-10-08T15:08:50.358-07:00
+ 2014-10-08 15:08:50,358 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:08:50,860 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:50,861 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:50.358-07:00/2014-10-08T15:08:50.860-07:00
+ 2014-10-08 15:08:50,861 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:08:51,278 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:51,278 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:50.861-07:00/2014-10-08T15:08:51.278-07:00
+ 2014-10-08 15:08:51,279 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:08:51,803 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:51,803 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:51.279-07:00/2014-10-08T15:08:51.803-07:00
+ 2014-10-08 15:08:51,804 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:08:52,168 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:52,168 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:51.804-07:00/2014-10-08T15:08:52.168-07:00
+ 2014-10-08 15:08:52,168 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:08:52,711 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:52,712 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:52.168-07:00/2014-10-08T15:08:52.712-07:00
+ 2014-10-08 15:08:52,712 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:08:53,039 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:08:53,039 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:52.712-07:00/2014-10-08T15:08:53.039-07:00
+ 2014-10-08 15:08:53,039 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:08:53,304 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:08:53,304 INFO  MonitorLoop  - Duration: 2014-10-08T15:08:53.039-07:00/2014-10-08T15:08:53.304-07:00
+ 2014-10-08 15:08:53,305 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:10:53,696 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:10:53,755 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:10:58,665 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:10:58,682 INFO  MonitorLoop  - Duration: PT4.935S
+ 2014-10-08 15:10:58,682 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/overviewOgcZoneWf/run
+ 2014-10-08 15:12:31,077 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:12:31,136 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:12:35,902 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:12:35,919 INFO  MonitorLoop  - Duration: PT4.792S
+ 2014-10-08 15:12:35,919 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/overviewOgcZoneWf/run
+ 2014-10-08 15:17:12,523 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:17:12,580 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:17:22,168 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:17:22,226 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:17:24,913 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:24,965 INFO  MonitorLoop  - Duration: 2 seconds and 710 milliseconds
+ 2014-10-08 15:17:24,965 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/overviewOgcZoneWf/run
+ 2014-10-08 15:17:51,031 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:51,032 INFO  MonitorLoop  - Duration: 26 seconds and 66 milliseconds
+ 2014-10-08 15:17:51,032 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:17:51,178 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:51,178 INFO  MonitorLoop  - Duration: 146 milliseconds
+ 2014-10-08 15:17:51,178 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:17:51,774 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:51,775 INFO  MonitorLoop  - Duration: 596 milliseconds
+ 2014-10-08 15:17:51,775 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:17:52,455 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:52,455 INFO  MonitorLoop  - Duration: 680 milliseconds
+ 2014-10-08 15:17:52,455 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:17:53,011 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:53,012 INFO  MonitorLoop  - Duration: 556 milliseconds
+ 2014-10-08 15:17:53,012 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:17:53,388 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:53,389 INFO  MonitorLoop  - Duration: 377 milliseconds
+ 2014-10-08 15:17:53,390 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:17:53,747 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:53,748 INFO  MonitorLoop  - Duration: 357 milliseconds
+ 2014-10-08 15:17:53,748 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:17:53,897 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:53,898 INFO  MonitorLoop  - Duration: 150 milliseconds
+ 2014-10-08 15:17:53,898 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:17:54,475 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:54,475 INFO  MonitorLoop  - Duration: 577 milliseconds
+ 2014-10-08 15:17:54,476 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:17:55,423 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:55,424 INFO  MonitorLoop  - Duration: 948 milliseconds
+ 2014-10-08 15:17:55,425 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:17:55,811 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:55,811 INFO  MonitorLoop  - Duration: 386 milliseconds
+ 2014-10-08 15:17:55,811 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:17:56,126 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:56,126 INFO  MonitorLoop  - Duration: 315 milliseconds
+ 2014-10-08 15:17:56,126 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:17:56,531 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:56,531 INFO  MonitorLoop  - Duration: 405 milliseconds
+ 2014-10-08 15:17:56,532 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:17:56,889 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:17:56,889 INFO  MonitorLoop  - Duration: 357 milliseconds
+ 2014-10-08 15:17:56,890 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:18:00,582 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:18:00,583 INFO  MonitorLoop  - Duration: 3 seconds and 692 milliseconds
+ 2014-10-08 15:18:00,583 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:18:00,908 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:18:00,908 INFO  MonitorLoop  - Duration: 325 milliseconds
+ 2014-10-08 15:18:00,908 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:18:01,480 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:18:01,481 INFO  MonitorLoop  - Duration: 572 milliseconds
+ 2014-10-08 15:18:01,481 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:18:01,849 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:18:01,850 INFO  MonitorLoop  - Duration: 368 milliseconds
+ 2014-10-08 15:18:01,850 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:18:02,196 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:18:02,197 INFO  MonitorLoop  - Duration: 346 milliseconds
+ 2014-10-08 15:18:02,197 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:18:02,856 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:18:02,856 INFO  MonitorLoop  - Duration: 659 milliseconds
+ 2014-10-08 15:18:02,857 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:18:03,171 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:18:03,173 INFO  MonitorLoop  - Duration: 316 milliseconds
+ 2014-10-08 15:18:03,174 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:18:03,461 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:18:03,463 INFO  MonitorLoop  - Duration: 288 milliseconds
+ 2014-10-08 15:18:03,463 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:18:34,267 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:18:34,324 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:18:40,243 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:18:40,292 INFO  MonitorLoop  - Duration: 5 seconds and 945 milliseconds
+ 2014-10-08 15:18:40,292 INFO  MonitorLoop  - 
+ 2014-10-08 15:18:40,292 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/overviewOgcZoneWf/run
+ 2014-10-08 15:19:05,826 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:05,827 INFO  MonitorLoop  - Duration: 25 seconds and 534 milliseconds
+ 2014-10-08 15:19:05,827 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:05,827 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:19:05,944 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:05,944 INFO  MonitorLoop  - Duration: 117 milliseconds
+ 2014-10-08 15:19:05,944 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:05,945 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:19:06,732 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:06,733 INFO  MonitorLoop  - Duration: 787 milliseconds
+ 2014-10-08 15:19:06,733 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:06,734 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:19:07,260 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:07,261 INFO  MonitorLoop  - Duration: 526 milliseconds
+ 2014-10-08 15:19:07,261 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:07,262 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:19:08,307 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:08,309 INFO  MonitorLoop  - Duration: 1 second and 46 milliseconds
+ 2014-10-08 15:19:08,309 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:08,310 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:19:08,598 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:08,600 INFO  MonitorLoop  - Duration: 290 milliseconds
+ 2014-10-08 15:19:08,600 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:08,600 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:19:08,856 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:08,858 INFO  MonitorLoop  - Duration: 256 milliseconds
+ 2014-10-08 15:19:08,858 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:08,859 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:19:09,043 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:09,044 INFO  MonitorLoop  - Duration: 184 milliseconds
+ 2014-10-08 15:19:09,044 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:09,044 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:19:09,570 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:09,570 INFO  MonitorLoop  - Duration: 526 milliseconds
+ 2014-10-08 15:19:09,571 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:09,571 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:19:10,724 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:10,725 INFO  MonitorLoop  - Duration: 1 second and 153 milliseconds
+ 2014-10-08 15:19:10,725 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:10,725 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:19:10,927 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:10,927 INFO  MonitorLoop  - Duration: 202 milliseconds
+ 2014-10-08 15:19:10,927 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:10,927 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:19:11,557 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:11,557 INFO  MonitorLoop  - Duration: 630 milliseconds
+ 2014-10-08 15:19:11,557 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:11,558 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:19:11,942 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:11,942 INFO  MonitorLoop  - Duration: 384 milliseconds
+ 2014-10-08 15:19:11,942 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:11,942 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:19:12,300 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:12,300 INFO  MonitorLoop  - Duration: 358 milliseconds
+ 2014-10-08 15:19:12,300 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:12,301 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:19:15,893 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:15,893 INFO  MonitorLoop  - Duration: 3 seconds and 592 milliseconds
+ 2014-10-08 15:19:15,893 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:15,894 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:19:16,271 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:16,271 INFO  MonitorLoop  - Duration: 377 milliseconds
+ 2014-10-08 15:19:16,271 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:16,272 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:19:16,864 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:16,865 INFO  MonitorLoop  - Duration: 592 milliseconds
+ 2014-10-08 15:19:16,865 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:16,865 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:19:17,170 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:17,171 INFO  MonitorLoop  - Duration: 305 milliseconds
+ 2014-10-08 15:19:17,171 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:17,171 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:19:17,607 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:17,607 INFO  MonitorLoop  - Duration: 436 milliseconds
+ 2014-10-08 15:19:17,608 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:17,608 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:19:18,284 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:18,285 INFO  MonitorLoop  - Duration: 677 milliseconds
+ 2014-10-08 15:19:18,285 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:18,285 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:19:18,603 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:19:18,603 INFO  MonitorLoop  - Duration: 318 milliseconds
+ 2014-10-08 15:19:18,603 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:18,604 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:19:18,843 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:18,844 INFO  MonitorLoop  - Duration: 240 milliseconds
+ 2014-10-08 15:19:18,844 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:18,844 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:19:53,485 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:53,485 INFO  MonitorLoop  - Duration: 34 seconds and 641 milliseconds
+ 2014-10-08 15:19:53,485 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:53,486 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/withinTimberHarvestingLandBaseWf/run
+ 2014-10-08 15:19:53,724 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:19:53,724 INFO  MonitorLoop  - Duration: 238 milliseconds
+ 2014-10-08 15:19:53,724 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:53,724 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoCrownLengthAndTotalAreaWf/run
+ 2014-10-08 15:19:55,780 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:55,781 INFO  MonitorLoop  - Duration: 2 seconds and 56 milliseconds
+ 2014-10-08 15:19:55,781 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:55,781 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoPrivateLengthAndTotalAreaWf/run
+ 2014-10-08 15:19:55,889 INFO  MonitorLoop  - Response: wfError: true
+ 2014-10-08 15:19:55,890 INFO  MonitorLoop  - Duration: 109 milliseconds
+ 2014-10-08 15:19:55,890 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:55,890 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingAlrWf/run
+ 2014-10-08 15:19:57,144 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:19:57,145 INFO  MonitorLoop  - Duration: 1 second and 254 milliseconds
+ 2014-10-08 15:19:57,145 INFO  MonitorLoop  - 
+ 2014-10-08 15:19:57,145 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/outsidePrrdNrrdIndicatorWf/run
+ 2014-10-08 15:20:10,153 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:20:10,154 INFO  MonitorLoop  - Duration: 13 seconds and 9 milliseconds
+ 2014-10-08 15:20:10,154 INFO  MonitorLoop  - 
+ 2014-10-08 15:20:10,154 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/localGovernmentJurisdictionWf/run
+ 2014-10-08 15:20:36,612 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:20:36,613 INFO  MonitorLoop  - Duration: 26 seconds and 458 milliseconds
+ 2014-10-08 15:20:36,613 INFO  MonitorLoop  - 
+ 2014-10-08 15:20:36,613 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingParkWf/run
+ 2014-10-08 15:21:20,053 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:21:20,054 INFO  MonitorLoop  - Duration: 43 seconds and 440 milliseconds
+ 2014-10-08 15:21:20,054 INFO  MonitorLoop  - 
+ 2014-10-08 15:21:20,054 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/resourceManagementZoneWf/run
+ 2014-10-08 15:21:48,976 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:21:48,977 INFO  MonitorLoop  - Duration: 28 seconds and 923 milliseconds
+ 2014-10-08 15:21:48,977 INFO  MonitorLoop  - 
+ 2014-10-08 15:21:48,977 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:21:50,680 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:21:50,682 INFO  MonitorLoop  - Duration: 1 second and 704 milliseconds
+ 2014-10-08 15:21:50,682 INFO  MonitorLoop  - 
+ 2014-10-08 15:21:50,682 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:21:52,013 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:21:52,013 INFO  MonitorLoop  - Duration: 1 second and 331 milliseconds
+ 2014-10-08 15:21:52,013 INFO  MonitorLoop  - 
+ 2014-10-08 15:21:52,014 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:21:53,476 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:21:53,476 INFO  MonitorLoop  - Duration: 1 second and 462 milliseconds
+ 2014-10-08 15:21:53,477 INFO  MonitorLoop  - 
+ 2014-10-08 15:21:53,477 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:21:58,477 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:21:58,477 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:22:00,284 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:00,285 INFO  MonitorLoop  - Duration: 1 second and 808 milliseconds
+ 2014-10-08 15:22:00,285 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:00,285 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/overviewOgcZoneWf/run
+ 2014-10-08 15:22:25,416 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:25,416 INFO  MonitorLoop  - Duration: 25 seconds and 131 milliseconds
+ 2014-10-08 15:22:25,417 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:25,418 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:22:25,618 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:25,619 INFO  MonitorLoop  - Duration: 200 milliseconds
+ 2014-10-08 15:22:25,619 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:25,619 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:22:26,215 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:26,216 INFO  MonitorLoop  - Duration: 597 milliseconds
+ 2014-10-08 15:22:26,216 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:26,216 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:22:26,893 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:26,893 INFO  MonitorLoop  - Duration: 677 milliseconds
+ 2014-10-08 15:22:26,893 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:26,893 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:22:27,531 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:27,532 INFO  MonitorLoop  - Duration: 639 milliseconds
+ 2014-10-08 15:22:27,532 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:27,532 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:22:27,875 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:27,876 INFO  MonitorLoop  - Duration: 344 milliseconds
+ 2014-10-08 15:22:27,876 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:27,877 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:22:28,033 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:28,034 INFO  MonitorLoop  - Duration: 157 milliseconds
+ 2014-10-08 15:22:28,034 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:28,034 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:22:28,307 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:28,308 INFO  MonitorLoop  - Duration: 273 milliseconds
+ 2014-10-08 15:22:28,308 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:28,308 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:22:28,957 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:28,957 INFO  MonitorLoop  - Duration: 649 milliseconds
+ 2014-10-08 15:22:28,957 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:28,958 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:22:29,820 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:29,821 INFO  MonitorLoop  - Duration: 863 milliseconds
+ 2014-10-08 15:22:29,821 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:29,821 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:22:30,020 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:30,021 INFO  MonitorLoop  - Duration: 199 milliseconds
+ 2014-10-08 15:22:30,021 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:30,021 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:22:30,534 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:30,534 INFO  MonitorLoop  - Duration: 513 milliseconds
+ 2014-10-08 15:22:30,535 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:30,535 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:22:30,967 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:30,967 INFO  MonitorLoop  - Duration: 432 milliseconds
+ 2014-10-08 15:22:30,967 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:30,968 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:22:31,543 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:31,544 INFO  MonitorLoop  - Duration: 576 milliseconds
+ 2014-10-08 15:22:31,544 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:31,544 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:22:35,307 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:35,307 INFO  MonitorLoop  - Duration: 3 seconds and 763 milliseconds
+ 2014-10-08 15:22:35,307 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:35,307 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:22:35,866 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:35,866 INFO  MonitorLoop  - Duration: 559 milliseconds
+ 2014-10-08 15:22:35,866 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:35,867 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:22:36,101 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:36,101 INFO  MonitorLoop  - Duration: 234 milliseconds
+ 2014-10-08 15:22:36,102 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:36,102 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:22:36,898 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:36,898 INFO  MonitorLoop  - Duration: 796 milliseconds
+ 2014-10-08 15:22:36,898 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:36,898 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:22:37,304 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:37,304 INFO  MonitorLoop  - Duration: 406 milliseconds
+ 2014-10-08 15:22:37,305 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:37,305 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:22:37,883 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:37,883 INFO  MonitorLoop  - Duration: 578 milliseconds
+ 2014-10-08 15:22:37,883 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:37,883 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:22:38,133 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:22:38,133 INFO  MonitorLoop  - Duration: 250 milliseconds
+ 2014-10-08 15:22:38,133 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:38,133 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:22:38,332 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:22:38,333 INFO  MonitorLoop  - Duration: 199 milliseconds
+ 2014-10-08 15:22:38,333 INFO  MonitorLoop  - 
+ 2014-10-08 15:22:38,333 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:23:13,205 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:23:13,205 INFO  MonitorLoop  - Duration: 34 seconds and 872 milliseconds
+ 2014-10-08 15:23:13,206 INFO  MonitorLoop  - 
+ 2014-10-08 15:23:13,206 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/withinTimberHarvestingLandBaseWf/run
+ 2014-10-08 15:23:14,085 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:23:14,085 INFO  MonitorLoop  - Duration: 879 milliseconds
+ 2014-10-08 15:23:14,085 INFO  MonitorLoop  - 
+ 2014-10-08 15:23:14,086 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoCrownLengthAndTotalAreaWf/run
+ 2014-10-08 15:23:16,257 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:23:16,258 INFO  MonitorLoop  - Duration: 2 seconds and 173 milliseconds
+ 2014-10-08 15:23:16,258 INFO  MonitorLoop  - 
+ 2014-10-08 15:23:16,258 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoPrivateLengthAndTotalAreaWf/run
+ 2014-10-08 15:23:16,529 INFO  MonitorLoop  - Response: wfError: true
+ 2014-10-08 15:23:16,530 INFO  MonitorLoop  - Duration: 271 milliseconds
+ 2014-10-08 15:23:16,530 INFO  MonitorLoop  - 
+ 2014-10-08 15:23:16,530 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingAlrWf/run
+ 2014-10-08 15:23:17,811 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:23:17,812 INFO  MonitorLoop  - Duration: 1 second and 282 milliseconds
+ 2014-10-08 15:23:17,812 INFO  MonitorLoop  - 
+ 2014-10-08 15:23:17,812 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/outsidePrrdNrrdIndicatorWf/run
+ 2014-10-08 15:23:30,878 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:23:30,879 INFO  MonitorLoop  - Duration: 13 seconds and 66 milliseconds
+ 2014-10-08 15:23:30,879 INFO  MonitorLoop  - 
+ 2014-10-08 15:23:30,879 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/localGovernmentJurisdictionWf/run
+ 2014-10-08 15:23:57,111 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:23:57,112 INFO  MonitorLoop  - Duration: 26 seconds and 233 milliseconds
+ 2014-10-08 15:23:57,112 INFO  MonitorLoop  - 
+ 2014-10-08 15:23:57,112 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingParkWf/run
+ 2014-10-08 15:24:40,632 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:24:40,633 INFO  MonitorLoop  - Duration: 43 seconds and 521 milliseconds
+ 2014-10-08 15:24:40,633 INFO  MonitorLoop  - 
+ 2014-10-08 15:24:40,633 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/resourceManagementZoneWf/run
+ 2014-10-08 15:25:29,945 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:25:30,012 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:25:32,045 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:25:32,068 INFO  MonitorLoop  - Duration: 2 seconds and 61 milliseconds
+ 2014-10-08 15:25:32,068 INFO  MonitorLoop  - 
+ 2014-10-08 15:25:32,068 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/overviewOgcZoneWf/run
+ 2014-10-08 15:25:57,847 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:25:57,848 INFO  MonitorLoop  - Duration: 25 seconds and 780 milliseconds
+ 2014-10-08 15:25:57,848 INFO  MonitorLoop  - 
+ 2014-10-08 15:25:57,849 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:25:58,026 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:25:58,027 INFO  MonitorLoop  - Duration: 177 milliseconds
+ 2014-10-08 15:25:58,027 INFO  MonitorLoop  - 
+ 2014-10-08 15:25:58,027 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:25:58,624 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:25:58,624 INFO  MonitorLoop  - Duration: 597 milliseconds
+ 2014-10-08 15:25:58,624 INFO  MonitorLoop  - 
+ 2014-10-08 15:25:58,624 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:25:59,408 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:25:59,409 INFO  MonitorLoop  - Duration: 784 milliseconds
+ 2014-10-08 15:25:59,409 INFO  MonitorLoop  - 
+ 2014-10-08 15:25:59,409 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:26:00,339 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:00,340 INFO  MonitorLoop  - Duration: 931 milliseconds
+ 2014-10-08 15:26:00,341 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:00,341 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:26:00,619 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:00,620 INFO  MonitorLoop  - Duration: 279 milliseconds
+ 2014-10-08 15:26:00,621 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:00,621 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:26:01,007 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:01,007 INFO  MonitorLoop  - Duration: 386 milliseconds
+ 2014-10-08 15:26:01,007 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:01,007 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:26:01,358 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:01,359 INFO  MonitorLoop  - Duration: 352 milliseconds
+ 2014-10-08 15:26:01,359 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:01,360 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:26:01,805 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:01,805 INFO  MonitorLoop  - Duration: 445 milliseconds
+ 2014-10-08 15:26:01,805 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:01,806 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:26:02,685 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:02,685 INFO  MonitorLoop  - Duration: 879 milliseconds
+ 2014-10-08 15:26:02,685 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:02,686 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:26:03,015 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:03,016 INFO  MonitorLoop  - Duration: 329 milliseconds
+ 2014-10-08 15:26:03,016 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:03,016 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:26:03,219 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:03,220 INFO  MonitorLoop  - Duration: 203 milliseconds
+ 2014-10-08 15:26:03,220 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:03,220 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:26:03,646 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:03,647 INFO  MonitorLoop  - Duration: 427 milliseconds
+ 2014-10-08 15:26:03,647 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:03,647 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:26:04,087 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:04,088 INFO  MonitorLoop  - Duration: 441 milliseconds
+ 2014-10-08 15:26:04,088 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:04,088 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:26:08,161 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:08,162 INFO  MonitorLoop  - Duration: 4 seconds and 74 milliseconds
+ 2014-10-08 15:26:08,162 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:08,162 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:26:08,648 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:08,649 INFO  MonitorLoop  - Duration: 486 milliseconds
+ 2014-10-08 15:26:08,649 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:08,649 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:26:09,017 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:09,017 INFO  MonitorLoop  - Duration: 368 milliseconds
+ 2014-10-08 15:26:09,018 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:09,018 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:26:09,429 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:09,429 INFO  MonitorLoop  - Duration: 411 milliseconds
+ 2014-10-08 15:26:09,430 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:09,430 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:26:09,994 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:09,995 INFO  MonitorLoop  - Duration: 564 milliseconds
+ 2014-10-08 15:26:09,995 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:09,995 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:26:10,434 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:10,434 INFO  MonitorLoop  - Duration: 439 milliseconds
+ 2014-10-08 15:26:10,435 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:10,435 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:26:10,682 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:26:10,682 INFO  MonitorLoop  - Duration: 247 milliseconds
+ 2014-10-08 15:26:10,682 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:10,683 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:26:10,987 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:10,988 INFO  MonitorLoop  - Duration: 304 milliseconds
+ 2014-10-08 15:26:10,988 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:10,988 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:26:52,295 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:52,296 INFO  MonitorLoop  - Duration: 41 seconds and 307 milliseconds
+ 2014-10-08 15:26:52,296 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:52,296 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/withinTimberHarvestingLandBaseWf/run
+ 2014-10-08 15:26:52,399 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:26:52,400 INFO  MonitorLoop  - Duration: 103 milliseconds
+ 2014-10-08 15:26:52,400 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:52,400 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoCrownLengthAndTotalAreaWf/run
+ 2014-10-08 15:26:54,885 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:54,886 INFO  MonitorLoop  - Duration: 2 seconds and 485 milliseconds
+ 2014-10-08 15:26:54,886 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:54,886 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoPrivateLengthAndTotalAreaWf/run
+ 2014-10-08 15:26:55,065 INFO  MonitorLoop  - Response: wfError: true
+ 2014-10-08 15:26:55,065 INFO  MonitorLoop  - Duration: 179 milliseconds
+ 2014-10-08 15:26:55,065 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:55,066 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingAlrWf/run
+ 2014-10-08 15:26:56,018 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:26:56,019 INFO  MonitorLoop  - Duration: 953 milliseconds
+ 2014-10-08 15:26:56,019 INFO  MonitorLoop  - 
+ 2014-10-08 15:26:56,019 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/outsidePrrdNrrdIndicatorWf/run
+ 2014-10-08 15:27:10,060 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:27:10,061 INFO  MonitorLoop  - Duration: 14 seconds and 42 milliseconds
+ 2014-10-08 15:27:10,062 INFO  MonitorLoop  - 
+ 2014-10-08 15:27:10,062 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/localGovernmentJurisdictionWf/run
+ 2014-10-08 15:27:36,993 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:27:36,994 INFO  MonitorLoop  - Duration: 26 seconds and 932 milliseconds
+ 2014-10-08 15:27:36,994 INFO  MonitorLoop  - 
+ 2014-10-08 15:27:36,995 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingParkWf/run
+ 2014-10-08 15:28:08,550 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:28:08,608 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:28:08,852 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:08,877 INFO  MonitorLoop  - Duration: 270 milliseconds
+ 2014-10-08 15:28:08,877 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:08,877 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:28:09,652 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:09,653 INFO  MonitorLoop  - Duration: 776 milliseconds
+ 2014-10-08 15:28:09,653 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:09,654 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:28:10,393 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:10,393 INFO  MonitorLoop  - Duration: 739 milliseconds
+ 2014-10-08 15:28:10,393 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:10,393 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:28:11,115 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:11,115 INFO  MonitorLoop  - Duration: 722 milliseconds
+ 2014-10-08 15:28:11,115 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:11,115 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:28:11,235 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:11,235 INFO  MonitorLoop  - Duration: 120 milliseconds
+ 2014-10-08 15:28:11,235 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:11,235 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:28:11,422 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:11,423 INFO  MonitorLoop  - Duration: 188 milliseconds
+ 2014-10-08 15:28:11,423 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:11,423 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:28:11,768 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:11,769 INFO  MonitorLoop  - Duration: 345 milliseconds
+ 2014-10-08 15:28:11,769 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:11,770 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:28:12,221 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:12,221 INFO  MonitorLoop  - Duration: 451 milliseconds
+ 2014-10-08 15:28:12,222 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:12,222 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:28:13,065 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:13,066 INFO  MonitorLoop  - Duration: 844 milliseconds
+ 2014-10-08 15:28:13,066 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:13,066 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:28:13,390 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:13,390 INFO  MonitorLoop  - Duration: 324 milliseconds
+ 2014-10-08 15:28:13,390 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:13,391 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:28:13,854 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:13,855 INFO  MonitorLoop  - Duration: 464 milliseconds
+ 2014-10-08 15:28:13,855 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:13,855 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:28:14,208 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:14,208 INFO  MonitorLoop  - Duration: 353 milliseconds
+ 2014-10-08 15:28:14,208 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:14,208 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:28:14,602 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:14,602 INFO  MonitorLoop  - Duration: 394 milliseconds
+ 2014-10-08 15:28:14,602 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:14,603 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:28:18,838 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:18,839 INFO  MonitorLoop  - Duration: 4 seconds and 235 milliseconds
+ 2014-10-08 15:28:18,839 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:18,839 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:28:19,219 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:19,220 INFO  MonitorLoop  - Duration: 381 milliseconds
+ 2014-10-08 15:28:19,220 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:19,220 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:28:19,761 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:19,762 INFO  MonitorLoop  - Duration: 541 milliseconds
+ 2014-10-08 15:28:19,763 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:19,763 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:28:20,169 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:20,170 INFO  MonitorLoop  - Duration: 407 milliseconds
+ 2014-10-08 15:28:20,170 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:20,170 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:28:20,508 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:20,509 INFO  MonitorLoop  - Duration: 339 milliseconds
+ 2014-10-08 15:28:20,509 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:20,509 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:28:21,392 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:21,393 INFO  MonitorLoop  - Duration: 884 milliseconds
+ 2014-10-08 15:28:21,393 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:21,393 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:28:21,633 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:28:21,633 INFO  MonitorLoop  - Duration: 240 milliseconds
+ 2014-10-08 15:28:21,633 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:21,633 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:28:21,829 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:21,830 INFO  MonitorLoop  - Duration: 197 milliseconds
+ 2014-10-08 15:28:21,830 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:21,830 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:28:58,390 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:28:58,391 INFO  MonitorLoop  - Duration: 36 seconds and 561 milliseconds
+ 2014-10-08 15:28:58,392 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:58,392 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/withinTimberHarvestingLandBaseWf/run
+ 2014-10-08 15:28:58,540 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:28:58,540 INFO  MonitorLoop  - Duration: 148 milliseconds
+ 2014-10-08 15:28:58,541 INFO  MonitorLoop  - 
+ 2014-10-08 15:28:58,541 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoCrownLengthAndTotalAreaWf/run
+ 2014-10-08 15:29:00,735 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:29:00,735 INFO  MonitorLoop  - Duration: 2 seconds and 194 milliseconds
+ 2014-10-08 15:29:00,735 INFO  MonitorLoop  - 
+ 2014-10-08 15:29:00,736 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoPrivateLengthAndTotalAreaWf/run
+ 2014-10-08 15:29:00,886 INFO  MonitorLoop  - Response: wfError: true
+ 2014-10-08 15:29:00,886 INFO  MonitorLoop  - Duration: 151 milliseconds
+ 2014-10-08 15:29:00,887 INFO  MonitorLoop  - 
+ 2014-10-08 15:29:00,887 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingAlrWf/run
+ 2014-10-08 15:29:02,283 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:29:02,283 INFO  MonitorLoop  - Duration: 1 second and 396 milliseconds
+ 2014-10-08 15:29:02,283 INFO  MonitorLoop  - 
+ 2014-10-08 15:29:02,283 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/outsidePrrdNrrdIndicatorWf/run
+ 2014-10-08 15:29:15,641 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:29:15,641 INFO  MonitorLoop  - Duration: 13 seconds and 358 milliseconds
+ 2014-10-08 15:29:15,641 INFO  MonitorLoop  - 
+ 2014-10-08 15:29:15,641 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/localGovernmentJurisdictionWf/run
+ 2014-10-08 15:29:43,198 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:29:43,198 INFO  MonitorLoop  - Duration: 27 seconds and 557 milliseconds
+ 2014-10-08 15:29:43,198 INFO  MonitorLoop  - 
+ 2014-10-08 15:29:43,198 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingParkWf/run
+ 2014-10-08 15:36:12,242 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:36:12,299 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:36:12,679 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:12,698 INFO  MonitorLoop  - Duration: 404 milliseconds
+ 2014-10-08 15:36:12,698 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:12,698 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:36:16,555 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:16,556 INFO  MonitorLoop  - Duration: 3 seconds and 857 milliseconds
+ 2014-10-08 15:36:16,556 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:16,556 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:36:17,276 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:17,277 INFO  MonitorLoop  - Duration: 720 milliseconds
+ 2014-10-08 15:36:17,277 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:17,277 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:36:18,019 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:18,020 INFO  MonitorLoop  - Duration: 742 milliseconds
+ 2014-10-08 15:36:18,020 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:18,021 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:36:18,255 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:18,255 INFO  MonitorLoop  - Duration: 235 milliseconds
+ 2014-10-08 15:36:18,255 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:18,255 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:36:18,587 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:18,588 INFO  MonitorLoop  - Duration: 332 milliseconds
+ 2014-10-08 15:36:18,588 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:18,588 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:36:18,844 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:18,845 INFO  MonitorLoop  - Duration: 256 milliseconds
+ 2014-10-08 15:36:18,845 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:18,845 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:36:19,283 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:19,283 INFO  MonitorLoop  - Duration: 438 milliseconds
+ 2014-10-08 15:36:19,284 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:19,284 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:36:21,631 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:21,632 INFO  MonitorLoop  - Duration: 2 seconds and 348 milliseconds
+ 2014-10-08 15:36:21,632 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:21,633 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:36:22,037 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:22,038 INFO  MonitorLoop  - Duration: 405 milliseconds
+ 2014-10-08 15:36:22,038 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:22,038 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:36:22,356 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:22,357 INFO  MonitorLoop  - Duration: 319 milliseconds
+ 2014-10-08 15:36:22,357 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:22,357 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:36:22,839 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:22,840 INFO  MonitorLoop  - Duration: 483 milliseconds
+ 2014-10-08 15:36:22,840 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:22,840 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:36:23,297 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:36:23,298 INFO  MonitorLoop  - Duration: 457 milliseconds
+ 2014-10-08 15:36:23,298 INFO  MonitorLoop  - 
+ 2014-10-08 15:36:23,298 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:42:49,442 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:42:49,502 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:42:49,802 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:49,826 INFO  MonitorLoop  - Duration: 326 milliseconds
+ 2014-10-08 15:42:49,826 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:49,826 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:42:50,662 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:50,664 INFO  MonitorLoop  - Duration: 837 milliseconds
+ 2014-10-08 15:42:50,664 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:50,664 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:42:51,381 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:51,383 INFO  MonitorLoop  - Duration: 718 milliseconds
+ 2014-10-08 15:42:51,383 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:51,383 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:42:52,338 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:52,338 INFO  MonitorLoop  - Duration: 955 milliseconds
+ 2014-10-08 15:42:52,338 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:52,338 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:42:52,461 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:52,461 INFO  MonitorLoop  - Duration: 123 milliseconds
+ 2014-10-08 15:42:52,461 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:52,461 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:42:52,817 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:52,818 INFO  MonitorLoop  - Duration: 356 milliseconds
+ 2014-10-08 15:42:52,818 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:52,819 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:42:53,113 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:53,114 INFO  MonitorLoop  - Duration: 295 milliseconds
+ 2014-10-08 15:42:53,114 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:53,115 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:42:53,454 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:53,455 INFO  MonitorLoop  - Duration: 339 milliseconds
+ 2014-10-08 15:42:53,455 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:53,455 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:42:54,329 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:54,330 INFO  MonitorLoop  - Duration: 874 milliseconds
+ 2014-10-08 15:42:54,330 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:54,330 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:42:54,592 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:54,593 INFO  MonitorLoop  - Duration: 262 milliseconds
+ 2014-10-08 15:42:54,593 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:54,593 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:42:55,175 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:55,176 INFO  MonitorLoop  - Duration: 582 milliseconds
+ 2014-10-08 15:42:55,176 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:55,176 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:42:55,466 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:55,467 INFO  MonitorLoop  - Duration: 291 milliseconds
+ 2014-10-08 15:42:55,467 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:55,467 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:42:56,312 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:56,313 INFO  MonitorLoop  - Duration: 846 milliseconds
+ 2014-10-08 15:42:56,313 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:56,313 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:42:59,937 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:42:59,937 INFO  MonitorLoop  - Duration: 3 seconds and 624 milliseconds
+ 2014-10-08 15:42:59,938 INFO  MonitorLoop  - 
+ 2014-10-08 15:42:59,938 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:43:00,323 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:43:00,324 INFO  MonitorLoop  - Duration: 386 milliseconds
+ 2014-10-08 15:43:00,324 INFO  MonitorLoop  - 
+ 2014-10-08 15:43:00,325 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:43:00,514 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:43:00,514 INFO  MonitorLoop  - Duration: 189 milliseconds
+ 2014-10-08 15:43:00,514 INFO  MonitorLoop  - 
+ 2014-10-08 15:43:00,514 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:43:01,052 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:43:01,053 INFO  MonitorLoop  - Duration: 539 milliseconds
+ 2014-10-08 15:43:01,053 INFO  MonitorLoop  - 
+ 2014-10-08 15:43:01,053 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:43:01,410 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:43:01,411 INFO  MonitorLoop  - Duration: 357 milliseconds
+ 2014-10-08 15:43:01,412 INFO  MonitorLoop  - 
+ 2014-10-08 15:43:01,413 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:43:01,735 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:43:01,736 INFO  MonitorLoop  - Duration: 323 milliseconds
+ 2014-10-08 15:43:01,736 INFO  MonitorLoop  - 
+ 2014-10-08 15:43:01,736 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:43:02,050 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:43:02,050 INFO  MonitorLoop  - Duration: 314 milliseconds
+ 2014-10-08 15:43:02,050 INFO  MonitorLoop  - 
+ 2014-10-08 15:43:02,050 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:43:02,334 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:43:02,335 INFO  MonitorLoop  - Duration: 285 milliseconds
+ 2014-10-08 15:43:02,335 INFO  MonitorLoop  - 
+ 2014-10-08 15:43:02,335 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:48:53,556 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:48:53,612 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:49:05,738 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:49:05,793 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:49:06,190 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:06,207 INFO  MonitorLoop  - Duration: 420 milliseconds
+ 2014-10-08 15:49:06,207 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:06,207 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:49:07,122 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:07,123 INFO  MonitorLoop  - Duration: 916 milliseconds
+ 2014-10-08 15:49:07,123 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:07,123 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:49:07,784 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:07,784 INFO  MonitorLoop  - Duration: 661 milliseconds
+ 2014-10-08 15:49:07,784 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:07,784 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:49:08,539 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:08,540 INFO  MonitorLoop  - Duration: 755 milliseconds
+ 2014-10-08 15:49:08,540 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:08,540 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:49:08,664 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:08,664 INFO  MonitorLoop  - Duration: 124 milliseconds
+ 2014-10-08 15:49:08,664 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:08,665 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:49:08,990 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:08,991 INFO  MonitorLoop  - Duration: 325 milliseconds
+ 2014-10-08 15:49:08,991 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:08,991 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:49:09,341 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:09,342 INFO  MonitorLoop  - Duration: 350 milliseconds
+ 2014-10-08 15:49:09,342 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:09,342 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:49:09,678 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:09,679 INFO  MonitorLoop  - Duration: 337 milliseconds
+ 2014-10-08 15:49:09,679 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:09,680 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:49:10,603 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:10,604 INFO  MonitorLoop  - Duration: 923 milliseconds
+ 2014-10-08 15:49:10,604 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:10,604 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:49:10,997 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:10,998 INFO  MonitorLoop  - Duration: 394 milliseconds
+ 2014-10-08 15:49:10,998 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:10,998 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:49:11,526 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:11,528 INFO  MonitorLoop  - Duration: 529 milliseconds
+ 2014-10-08 15:49:11,528 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:11,528 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:49:11,722 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:11,723 INFO  MonitorLoop  - Duration: 194 milliseconds
+ 2014-10-08 15:49:11,723 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:11,723 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:49:11,986 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:11,987 INFO  MonitorLoop  - Duration: 263 milliseconds
+ 2014-10-08 15:49:11,987 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:11,987 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:49:15,971 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:15,972 INFO  MonitorLoop  - Duration: 3 seconds and 985 milliseconds
+ 2014-10-08 15:49:15,972 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:15,972 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:49:16,360 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:16,361 INFO  MonitorLoop  - Duration: 388 milliseconds
+ 2014-10-08 15:49:16,361 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:16,361 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:49:16,660 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:16,660 INFO  MonitorLoop  - Duration: 299 milliseconds
+ 2014-10-08 15:49:16,660 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:16,661 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:49:17,010 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:17,011 INFO  MonitorLoop  - Duration: 351 milliseconds
+ 2014-10-08 15:49:17,011 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:17,011 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:49:17,528 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:17,529 INFO  MonitorLoop  - Duration: 518 milliseconds
+ 2014-10-08 15:49:17,529 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:17,529 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:49:17,726 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:17,726 INFO  MonitorLoop  - Duration: 197 milliseconds
+ 2014-10-08 15:49:17,726 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:17,727 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:49:18,376 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:49:18,377 INFO  MonitorLoop  - Duration: 650 milliseconds
+ 2014-10-08 15:49:18,377 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:18,377 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:49:18,584 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:18,585 INFO  MonitorLoop  - Duration: 208 milliseconds
+ 2014-10-08 15:49:18,591 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:18,591 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:49:54,305 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:54,306 INFO  MonitorLoop  - Duration: 35 seconds and 714 milliseconds
+ 2014-10-08 15:49:54,306 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:54,306 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/withinTimberHarvestingLandBaseWf/run
+ 2014-10-08 15:49:54,645 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:49:54,646 INFO  MonitorLoop  - Duration: 340 milliseconds
+ 2014-10-08 15:49:54,646 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:54,646 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoCrownLengthAndTotalAreaWf/run
+ 2014-10-08 15:49:56,766 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:56,767 INFO  MonitorLoop  - Duration: 2 seconds and 120 milliseconds
+ 2014-10-08 15:49:56,767 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:56,767 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoPrivateLengthAndTotalAreaWf/run
+ 2014-10-08 15:49:56,946 INFO  MonitorLoop  - Response: wfError: true
+ 2014-10-08 15:49:56,947 INFO  MonitorLoop  - Duration: 179 milliseconds
+ 2014-10-08 15:49:56,947 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:56,947 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingAlrWf/run
+ 2014-10-08 15:49:58,037 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:49:58,038 INFO  MonitorLoop  - Duration: 1 second and 91 milliseconds
+ 2014-10-08 15:49:58,038 INFO  MonitorLoop  - 
+ 2014-10-08 15:49:58,039 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/outsidePrrdNrrdIndicatorWf/run
+ 2014-10-08 15:50:11,514 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:50:11,514 INFO  MonitorLoop  - Duration: 13 seconds and 475 milliseconds
+ 2014-10-08 15:50:11,515 INFO  MonitorLoop  - 
+ 2014-10-08 15:50:11,515 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/localGovernmentJurisdictionWf/run
+ 2014-10-08 15:52:14,460 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:52:14,515 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:52:14,747 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:14,771 INFO  MonitorLoop  - Duration: 256 milliseconds
+ 2014-10-08 15:52:14,771 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:14,771 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:52:15,816 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:15,817 INFO  MonitorLoop  - Duration: 1 second and 46 milliseconds
+ 2014-10-08 15:52:15,817 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:15,817 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:52:16,764 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:16,765 INFO  MonitorLoop  - Duration: 948 milliseconds
+ 2014-10-08 15:52:16,765 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:16,766 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:52:17,407 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:17,408 INFO  MonitorLoop  - Duration: 642 milliseconds
+ 2014-10-08 15:52:17,408 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:17,409 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:52:17,670 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:17,671 INFO  MonitorLoop  - Duration: 262 milliseconds
+ 2014-10-08 15:52:17,671 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:17,671 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:52:17,865 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:17,866 INFO  MonitorLoop  - Duration: 194 milliseconds
+ 2014-10-08 15:52:17,867 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:17,867 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:52:18,234 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:18,234 INFO  MonitorLoop  - Duration: 367 milliseconds
+ 2014-10-08 15:52:18,234 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:18,234 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:52:18,628 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:18,628 INFO  MonitorLoop  - Duration: 394 milliseconds
+ 2014-10-08 15:52:18,628 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:18,628 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:52:19,647 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:19,648 INFO  MonitorLoop  - Duration: 1 second and 20 milliseconds
+ 2014-10-08 15:52:19,648 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:19,648 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:52:19,885 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:19,886 INFO  MonitorLoop  - Duration: 237 milliseconds
+ 2014-10-08 15:52:19,886 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:19,886 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:52:20,414 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:20,415 INFO  MonitorLoop  - Duration: 529 milliseconds
+ 2014-10-08 15:52:20,415 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:20,415 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:52:20,718 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:20,719 INFO  MonitorLoop  - Duration: 304 milliseconds
+ 2014-10-08 15:52:20,719 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:20,720 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:52:21,064 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:21,064 INFO  MonitorLoop  - Duration: 345 milliseconds
+ 2014-10-08 15:52:21,064 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:21,064 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:52:25,378 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:25,379 INFO  MonitorLoop  - Duration: 4 seconds and 315 milliseconds
+ 2014-10-08 15:52:25,379 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:25,379 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:52:25,715 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:25,716 INFO  MonitorLoop  - Duration: 337 milliseconds
+ 2014-10-08 15:52:25,716 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:25,717 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:52:26,245 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:26,246 INFO  MonitorLoop  - Duration: 530 milliseconds
+ 2014-10-08 15:52:26,246 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:26,247 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:52:26,640 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:26,641 INFO  MonitorLoop  - Duration: 394 milliseconds
+ 2014-10-08 15:52:26,641 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:26,641 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:52:26,998 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:26,998 INFO  MonitorLoop  - Duration: 357 milliseconds
+ 2014-10-08 15:52:26,999 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:26,999 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:52:27,423 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:27,423 INFO  MonitorLoop  - Duration: 424 milliseconds
+ 2014-10-08 15:52:27,423 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:27,423 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:52:27,737 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:52:27,737 INFO  MonitorLoop  - Duration: 314 milliseconds
+ 2014-10-08 15:52:27,738 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:27,738 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:52:28,073 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:52:28,074 INFO  MonitorLoop  - Duration: 336 milliseconds
+ 2014-10-08 15:52:28,074 INFO  MonitorLoop  - 
+ 2014-10-08 15:52:28,074 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:53:04,424 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:53:04,425 INFO  MonitorLoop  - Duration: 36 seconds and 350 milliseconds
+ 2014-10-08 15:53:04,425 INFO  MonitorLoop  - 
+ 2014-10-08 15:53:04,425 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/withinTimberHarvestingLandBaseWf/run
+ 2014-10-08 15:53:04,776 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:53:04,777 INFO  MonitorLoop  - Duration: 352 milliseconds
+ 2014-10-08 15:53:04,777 INFO  MonitorLoop  - 
+ 2014-10-08 15:53:04,777 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoCrownLengthAndTotalAreaWf/run
+ 2014-10-08 15:53:06,819 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:53:06,820 INFO  MonitorLoop  - Duration: 2 seconds and 43 milliseconds
+ 2014-10-08 15:53:06,820 INFO  MonitorLoop  - 
+ 2014-10-08 15:53:06,820 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoPrivateLengthAndTotalAreaWf/run
+ 2014-10-08 15:53:06,958 INFO  MonitorLoop  - Response: wfError: true
+ 2014-10-08 15:53:06,959 INFO  MonitorLoop  - Duration: 139 milliseconds
+ 2014-10-08 15:53:06,959 INFO  MonitorLoop  - 
+ 2014-10-08 15:53:06,960 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingAlrWf/run
+ 2014-10-08 15:53:08,009 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:53:08,010 INFO  MonitorLoop  - Duration: 1 second and 51 milliseconds
+ 2014-10-08 15:53:08,010 INFO  MonitorLoop  - 
+ 2014-10-08 15:53:08,010 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/outsidePrrdNrrdIndicatorWf/run
+ 2014-10-08 15:53:22,170 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:53:22,171 INFO  MonitorLoop  - Duration: 14 seconds and 160 milliseconds
+ 2014-10-08 15:53:22,171 INFO  MonitorLoop  - 
+ 2014-10-08 15:53:22,171 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/localGovernmentJurisdictionWf/run
+ 2014-10-08 15:53:49,328 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:53:49,329 INFO  MonitorLoop  - Duration: 27 seconds and 157 milliseconds
+ 2014-10-08 15:53:49,329 INFO  MonitorLoop  - 
+ 2014-10-08 15:53:49,329 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingParkWf/run
+ 2014-10-08 15:54:33,152 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:54:33,153 INFO  MonitorLoop  - Duration: 43 seconds and 824 milliseconds
+ 2014-10-08 15:54:33,153 INFO  MonitorLoop  - 
+ 2014-10-08 15:54:33,153 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/resourceManagementZoneWf/run
+ 2014-10-08 15:55:02,686 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:02,687 INFO  MonitorLoop  - Duration: 29 seconds and 533 milliseconds
+ 2014-10-08 15:55:02,687 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:02,687 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:55:04,388 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:04,389 INFO  MonitorLoop  - Duration: 1 second and 701 milliseconds
+ 2014-10-08 15:55:04,389 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:04,389 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:55:06,183 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:06,184 INFO  MonitorLoop  - Duration: 1 second and 795 milliseconds
+ 2014-10-08 15:55:06,184 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:06,184 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:55:07,847 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:07,848 INFO  MonitorLoop  - Duration: 1 second and 664 milliseconds
+ 2014-10-08 15:55:07,849 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:07,849 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 15:55:09,853 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:09,854 INFO  MonitorLoop  - Duration: 2 seconds and 4 milliseconds
+ 2014-10-08 15:55:09,854 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:09,854 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/overviewOgcZoneWf/run
+ 2014-10-08 15:55:36,007 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:36,008 INFO  MonitorLoop  - Duration: 26 seconds and 153 milliseconds
+ 2014-10-08 15:55:36,008 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:36,008 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:55:41,008 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 15:55:41,010 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 15:55:41,170 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:41,171 INFO  MonitorLoop  - Duration: 161 milliseconds
+ 2014-10-08 15:55:41,171 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:41,171 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 15:55:41,963 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:41,964 INFO  MonitorLoop  - Duration: 793 milliseconds
+ 2014-10-08 15:55:41,965 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:41,966 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 15:55:42,849 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:42,850 INFO  MonitorLoop  - Duration: 884 milliseconds
+ 2014-10-08 15:55:42,850 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:42,850 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 15:55:43,659 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:43,659 INFO  MonitorLoop  - Duration: 809 milliseconds
+ 2014-10-08 15:55:43,659 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:43,660 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 15:55:43,847 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:43,848 INFO  MonitorLoop  - Duration: 187 milliseconds
+ 2014-10-08 15:55:43,848 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:43,848 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 15:55:44,376 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:44,377 INFO  MonitorLoop  - Duration: 529 milliseconds
+ 2014-10-08 15:55:44,377 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:44,377 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 15:55:48,953 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:48,954 INFO  MonitorLoop  - Duration: 4 seconds and 577 milliseconds
+ 2014-10-08 15:55:48,954 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:48,955 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 15:55:49,500 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:49,501 INFO  MonitorLoop  - Duration: 545 milliseconds
+ 2014-10-08 15:55:49,501 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:49,501 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 15:55:51,105 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:51,106 INFO  MonitorLoop  - Duration: 1 second and 604 milliseconds
+ 2014-10-08 15:55:51,106 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:51,106 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 15:55:51,473 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:51,474 INFO  MonitorLoop  - Duration: 368 milliseconds
+ 2014-10-08 15:55:51,474 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:51,474 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 15:55:51,811 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:51,812 INFO  MonitorLoop  - Duration: 338 milliseconds
+ 2014-10-08 15:55:51,812 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:51,812 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 15:55:52,341 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:52,342 INFO  MonitorLoop  - Duration: 529 milliseconds
+ 2014-10-08 15:55:52,342 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:52,342 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 15:55:52,596 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:52,597 INFO  MonitorLoop  - Duration: 254 milliseconds
+ 2014-10-08 15:55:52,597 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:52,597 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 15:55:56,170 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:56,172 INFO  MonitorLoop  - Duration: 3 seconds and 573 milliseconds
+ 2014-10-08 15:55:56,172 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:56,172 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 15:55:56,580 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:56,581 INFO  MonitorLoop  - Duration: 408 milliseconds
+ 2014-10-08 15:55:56,582 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:56,582 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 15:55:56,951 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:56,952 INFO  MonitorLoop  - Duration: 370 milliseconds
+ 2014-10-08 15:55:56,952 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:56,952 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 15:55:57,502 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:57,503 INFO  MonitorLoop  - Duration: 550 milliseconds
+ 2014-10-08 15:55:57,503 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:57,503 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 15:55:57,807 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:57,808 INFO  MonitorLoop  - Duration: 304 milliseconds
+ 2014-10-08 15:55:57,808 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:57,808 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 15:55:58,148 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:58,149 INFO  MonitorLoop  - Duration: 341 milliseconds
+ 2014-10-08 15:55:58,149 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:58,150 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 15:55:58,468 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:55:58,468 INFO  MonitorLoop  - Duration: 318 milliseconds
+ 2014-10-08 15:55:58,468 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:58,469 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 15:55:58,588 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:55:58,589 INFO  MonitorLoop  - Duration: 120 milliseconds
+ 2014-10-08 15:55:58,589 INFO  MonitorLoop  - 
+ 2014-10-08 15:55:58,589 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 15:56:34,347 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:56:34,348 INFO  MonitorLoop  - Duration: 35 seconds and 758 milliseconds
+ 2014-10-08 15:56:34,348 INFO  MonitorLoop  - 
+ 2014-10-08 15:56:34,348 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/withinTimberHarvestingLandBaseWf/run
+ 2014-10-08 15:56:34,686 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 15:56:34,686 INFO  MonitorLoop  - Duration: 338 milliseconds
+ 2014-10-08 15:56:34,686 INFO  MonitorLoop  - 
+ 2014-10-08 15:56:34,686 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoCrownLengthAndTotalAreaWf/run
+ 2014-10-08 15:56:36,885 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:56:36,886 INFO  MonitorLoop  - Duration: 2 seconds and 200 milliseconds
+ 2014-10-08 15:56:36,886 INFO  MonitorLoop  - 
+ 2014-10-08 15:56:36,886 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoPrivateLengthAndTotalAreaWf/run
+ 2014-10-08 15:56:37,104 INFO  MonitorLoop  - Response: wfError: true
+ 2014-10-08 15:56:37,104 INFO  MonitorLoop  - Duration: 218 milliseconds
+ 2014-10-08 15:56:37,105 INFO  MonitorLoop  - 
+ 2014-10-08 15:56:37,105 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingAlrWf/run
+ 2014-10-08 15:56:38,189 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:56:38,189 INFO  MonitorLoop  - Duration: 1 second and 84 milliseconds
+ 2014-10-08 15:56:38,189 INFO  MonitorLoop  - 
+ 2014-10-08 15:56:38,189 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/outsidePrrdNrrdIndicatorWf/run
+ 2014-10-08 15:56:51,867 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:56:51,868 INFO  MonitorLoop  - Duration: 13 seconds and 679 milliseconds
+ 2014-10-08 15:56:51,868 INFO  MonitorLoop  - 
+ 2014-10-08 15:56:51,868 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/localGovernmentJurisdictionWf/run
+ 2014-10-08 15:57:19,120 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 15:57:19,120 INFO  MonitorLoop  - Duration: 27 seconds and 252 milliseconds
+ 2014-10-08 15:57:19,121 INFO  MonitorLoop  - 
+ 2014-10-08 15:57:19,121 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingParkWf/run
+ 2014-10-08 16:26:04,151 INFO  MonitorLoop  - ================================================================================
+ 2014-10-08 16:26:04,208 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellBcgsMapsheetsWf/run
+ 2014-10-08 16:26:04,667 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:04,697 INFO  MonitorLoop  - Duration: 484 milliseconds
+ 2014-10-08 16:26:04,697 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:04,697 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellLocationWf/run
+ 2014-10-08 16:26:05,503 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:05,504 INFO  MonitorLoop  - Duration: 807 milliseconds
+ 2014-10-08 16:26:05,504 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:05,505 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellNameWf/run
+ 2014-10-08 16:26:05,983 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:05,983 INFO  MonitorLoop  - Duration: 478 milliseconds
+ 2014-10-08 16:26:05,983 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:05,983 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/wellWithinSubmittedCcWf/run
+ 2014-10-08 16:26:06,594 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:06,595 INFO  MonitorLoop  - Duration: 611 milliseconds
+ 2014-10-08 16:26:06,595 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:06,595 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landActivityAreaWf/run
+ 2014-10-08 16:26:06,722 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:06,723 INFO  MonitorLoop  - Duration: 127 milliseconds
+ 2014-10-08 16:26:06,723 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:06,723 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landTotalApplicationAreaWf/run
+ 2014-10-08 16:26:07,057 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:07,058 INFO  MonitorLoop  - Duration: 335 milliseconds
+ 2014-10-08 16:26:07,059 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:07,059 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landCrownLandTypeWf/run
+ 2014-10-08 16:26:07,608 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:07,608 INFO  MonitorLoop  - Duration: 549 milliseconds
+ 2014-10-08 16:26:07,609 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:07,609 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/landAoUntenuredCrLandWf/run
+ 2014-10-08 16:26:08,044 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:08,045 INFO  MonitorLoop  - Duration: 436 milliseconds
+ 2014-10-08 16:26:08,045 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:08,046 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActAgrLeaseWf/run
+ 2014-10-08 16:26:08,922 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:08,923 INFO  MonitorLoop  - Duration: 877 milliseconds
+ 2014-10-08 16:26:08,923 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:08,923 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActExcAgrLeaseWf/run
+ 2014-10-08 16:26:09,357 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:09,358 INFO  MonitorLoop  - Duration: 435 milliseconds
+ 2014-10-08 16:26:09,359 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:09,359 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActReserveWf/run
+ 2014-10-08 16:26:09,708 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:09,708 INFO  MonitorLoop  - Duration: 349 milliseconds
+ 2014-10-08 16:26:09,709 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:09,709 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActStatRightOfWayWf/run
+ 2014-10-08 16:26:10,348 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:10,349 INFO  MonitorLoop  - Duration: 639 milliseconds
+ 2014-10-08 16:26:10,349 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:10,349 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActLicenseWf/run
+ 2014-10-08 16:26:10,681 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:10,682 INFO  MonitorLoop  - Duration: 332 milliseconds
+ 2014-10-08 16:26:10,682 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:10,682 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingLandActPermitWf/run
+ 2014-10-08 16:26:14,545 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:14,546 INFO  MonitorLoop  - Duration: 3 seconds and 863 milliseconds
+ 2014-10-08 16:26:14,546 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:14,546 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingIndianReserveWf/run
+ 2014-10-08 16:26:14,762 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:14,763 INFO  MonitorLoop  - Duration: 217 milliseconds
+ 2014-10-08 16:26:14,763 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:14,763 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingOtherFederalLandWf/run
+ 2014-10-08 16:26:15,260 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:15,260 INFO  MonitorLoop  - Duration: 497 milliseconds
+ 2014-10-08 16:26:15,260 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:15,260 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityNoticeOnlyWf/run
+ 2014-10-08 16:26:15,637 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:15,638 INFO  MonitorLoop  - Duration: 378 milliseconds
+ 2014-10-08 16:26:15,639 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:15,639 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityInNebcWf/run
+ 2014-10-08 16:26:15,952 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:15,953 INFO  MonitorLoop  - Duration: 314 milliseconds
+ 2014-10-08 16:26:15,953 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:15,953 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnCommunityOutNebcWf/run
+ 2014-10-08 16:26:16,305 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:16,306 INFO  MonitorLoop  - Duration: 352 milliseconds
+ 2014-10-08 16:26:16,306 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:16,306 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/fnAreasInterestWf/run
+ 2014-10-08 16:26:16,554 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 16:26:16,554 INFO  MonitorLoop  - Duration: 248 milliseconds
+ 2014-10-08 16:26:16,555 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:16,555 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoBcgsMapsheetWf/run
+ 2014-10-08 16:26:16,678 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:16,679 INFO  MonitorLoop  - Duration: 123 milliseconds
+ 2014-10-08 16:26:16,679 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:16,679 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/forestDistrictWf/run
+ 2014-10-08 16:26:53,523 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:53,523 INFO  MonitorLoop  - Duration: 36 seconds and 844 milliseconds
+ 2014-10-08 16:26:53,524 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:53,524 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/withinTimberHarvestingLandBaseWf/run
+ 2014-10-08 16:26:53,665 INFO  MonitorLoop  - Response: NOK
+ 2014-10-08 16:26:53,666 INFO  MonitorLoop  - Duration: 141 milliseconds
+ 2014-10-08 16:26:53,666 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:53,666 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoCrownLengthAndTotalAreaWf/run
+ 2014-10-08 16:26:55,674 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:55,675 INFO  MonitorLoop  - Duration: 2 seconds and 8 milliseconds
+ 2014-10-08 16:26:55,675 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:55,675 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/geoPrivateLengthAndTotalAreaWf/run
+ 2014-10-08 16:26:55,772 INFO  MonitorLoop  - Response: wfError: true
+ 2014-10-08 16:26:55,773 INFO  MonitorLoop  - Duration: 97 milliseconds
+ 2014-10-08 16:26:55,774 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:55,774 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingAlrWf/run
+ 2014-10-08 16:26:56,925 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:26:56,925 INFO  MonitorLoop  - Duration: 1 second and 151 milliseconds
+ 2014-10-08 16:26:56,926 INFO  MonitorLoop  - 
+ 2014-10-08 16:26:56,926 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/outsidePrrdNrrdIndicatorWf/run
+ 2014-10-08 16:27:10,721 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:27:10,721 INFO  MonitorLoop  - Duration: 13 seconds and 795 milliseconds
+ 2014-10-08 16:27:10,722 INFO  MonitorLoop  - 
+ 2014-10-08 16:27:10,722 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/localGovernmentJurisdictionWf/run
+ 2014-10-08 16:27:37,355 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:27:37,356 INFO  MonitorLoop  - Duration: 26 seconds and 634 milliseconds
+ 2014-10-08 16:27:37,356 INFO  MonitorLoop  - 
+ 2014-10-08 16:27:37,356 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaOverlappingParkWf/run
+ 2014-10-08 16:28:20,506 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:28:20,507 INFO  MonitorLoop  - Duration: 43 seconds and 150 milliseconds
+ 2014-10-08 16:28:20,507 INFO  MonitorLoop  - 
+ 2014-10-08 16:28:20,507 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/resourceManagementZoneWf/run
+ 2014-10-08 16:28:50,345 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:28:50,345 INFO  MonitorLoop  - Duration: 29 seconds and 838 milliseconds
+ 2014-10-08 16:28:50,346 INFO  MonitorLoop  - 
+ 2014-10-08 16:28:50,346 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 16:28:52,257 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:28:52,257 INFO  MonitorLoop  - Duration: 1 second and 911 milliseconds
+ 2014-10-08 16:28:52,257 INFO  MonitorLoop  - 
+ 2014-10-08 16:28:52,258 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 16:28:53,956 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:28:53,957 INFO  MonitorLoop  - Duration: 1 second and 698 milliseconds
+ 2014-10-08 16:28:53,958 INFO  MonitorLoop  - 
+ 2014-10-08 16:28:53,958 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 16:28:55,765 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:28:55,766 INFO  MonitorLoop  - Duration: 1 second and 808 milliseconds
+ 2014-10-08 16:28:55,766 INFO  MonitorLoop  - 
+ 2014-10-08 16:28:55,767 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/areaEstablishedByOrderWf/run
+ 2014-10-08 16:28:58,036 INFO  MonitorLoop  - Response: OK
+ 2014-10-08 16:28:58,036 INFO  MonitorLoop  - Duration: 2 seconds and 269 milliseconds
+ 2014-10-08 16:28:58,037 INFO  MonitorLoop  - 
+ 2014-10-08 16:28:58,037 INFO  MonitorLoop  - Checking workflow at URL : http://orca1.pacificgeotech.local/Geocortex/Essentials/REST/sites/epermitDev/workflows/overviewOgcZoneWf/run
+ 
